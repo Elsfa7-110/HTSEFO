@@ -1,6 +1,5 @@
 # HTISEFO
-Automates HTML injection
-html injection scanner .. scan list of urls
+Automates HTML injection.. Scan List Of Urls
 HTML Injection.
 
 Usage
